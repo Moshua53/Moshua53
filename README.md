@@ -1,10 +1,9 @@
-
 ## 🚀 Proyectos Destacados
 
 Aquí hay algunos de los proyectos que puedes encontrar en este repositorio:
 
-- **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto.
-- **[Nombre del Proyecto 2](#)**: Breve descripción del proyecto.
+- **[Proyecto Ahorro Programado (LPCL)](https://github.com/Moshua53/ProyectoAhorroProgramado_LPCL)**: Aplicación para fomentar el ahorro personal a través de lógica programada. Incluye funcionalidades para metas de ahorro, cálculos financieros y gestión de usuarios.
+- **[LexiSynapseAI](https://github.com/molxeuz/LexiSynapseAI)**: Sistema de inteligencia artificial para el procesamiento y generación de lenguaje natural, orientado a mejorar la interacción entre humanos y máquinas.
 - **[Nombre del Proyecto 3](#)**: Breve descripción del proyecto.
 
 ## 🛠️ Tecnologías Utilizadas
@@ -33,8 +32,7 @@ Si deseas contribuir a alguno de mis proyectos, ¡serás bienvenido! Aquí hay a
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
 - **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [Tu Nombre](https://www.linkedin.com/in/tu-perfil/)
-- **Twitter**: [@tu-usuario](https://twitter.com/tu-usuario)
+- **LinkedIn**: [Joshua Herrera Galindo](https://www.linkedin.com/in/joshua-herrera-galindo-b0441631b/)
 
 ## 📜 Licencia
 
