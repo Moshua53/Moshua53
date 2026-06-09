@@ -1,10 +1,10 @@
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 Aquí hay algunos de los proyectos que puedes encontrar en este repositorio:
 
 - **[Proyecto Ahorro Programado (LPCL)](https://github.com/Moshua53/ProyectoAhorroProgramado_LPCL)**: Aplicación para fomentar el ahorro personal a través de lógica programada. Incluye funcionalidades para metas de ahorro, cálculos financieros y gestión de usuarios.
 - **[LexiSynapseAI](https://github.com/molxeuz/LexiSynapseAI)**: Sistema de inteligencia artificial para el procesamiento y generación de lenguaje natural, orientado a mejorar la interacción entre humanos y máquinas.
-- **[Nombre del Proyecto 3](#)**: Breve descripción del proyecto.
+- **[Chatbot-IA](https://github.com/MankX58/Chatbot-IA)**: Asistente virtual inteligente desarrollado con React y modelos de lenguaje para automatizar el soporte técnico, resolver incidencias tecnológicas institucionales 24/7 y escalar casos a agentes humanos de forma organizada..
 
 ## 🛠️ Tecnologías Utilizadas
 
