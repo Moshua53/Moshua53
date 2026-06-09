@@ -1,4 +1,4 @@
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 Aquí hay algunos de los proyectos que puedes encontrar en este repositorio:
 
@@ -8,7 +8,7 @@ Aquí hay algunos de los proyectos que puedes encontrar en este repositorio:
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 En este repositorio, utilizo una variedad de tecnologías y herramientas para construir soluciones eficientes y modernas:
 
@@ -32,7 +32,7 @@ En este repositorio, utilizo una variedad de tecnologías y herramientas para co
 
 ---
 
-## 📝 Cómo Contribuir
+##  Cómo Contribuir
 
 Si deseas contribuir a alguno de mis proyectos, ¡serás bienvenido! Aquí hay algunos pasos para empezar:
 
@@ -46,7 +46,7 @@ Si deseas contribuir a alguno de mis proyectos, ¡serás bienvenido! Aquí hay a
 
 ---
 
-## 📧 Contacto
+##  Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
@@ -55,7 +55,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
 ---
 
-## 📜 Licencia
+##  Licencia
 
 Este repositorio está bajo la licencia [MIT](LICENSE). Siéntete libre de usarlo y modificarlo según tus necesidades.
 
