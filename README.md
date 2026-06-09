@@ -1,5 +1,3 @@
-
-```markdown
 ## 🚀 Proyectos Destacados
 
 Aquí hay algunos de los proyectos que puedes encontrar en este repositorio:
@@ -52,7 +50,7 @@ Si deseas contribuir a alguno de mis proyectos, ¡serás bienvenido! Aquí hay a
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-* **Email:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com) _(Reemplaza esto con tu correo real)_
+* **Email:** [moisesjoshua53@gmail.com](mailto:tu-correo@ejemplo.com) _(Reemplaza esto con tu correo real)_
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/Joshua_Herrera_Galindo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-herrera-galindo-b0441631b/)
 
 ---
@@ -65,6 +63,3 @@ Este repositorio está bajo la licencia [MIT](LICENSE). Siéntete libre de usarl
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante o útil aquí. ¡No dudes en explorar y dejar tus comentarios!
 ```
-
-> [!NOTE]
-> No olvides reemplazar `tu-correo@ejemplo.com` por tu dirección de correo electrónico real antes de guardar el archivo.
