@@ -56,9 +56,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 ---
 
 ##  Licencia
-
-Este repositorio está bajo la licencia [MIT](LICENSE). Siéntete libre de usarlo y modificarlo según tus necesidades.
-
+Mira en cada proyecto 
 ---
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante o útil aquí. ¡No dudes en explorar y dejar tus comentarios!
